@@ -1,0 +1,6 @@
+requests
+bs4
+autogen-agentchat
+autogen-ext[openai]
+easyocr
+autogen-ext[mcp]
